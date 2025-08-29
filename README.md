@@ -4,9 +4,18 @@
 
 <div align="center">
   <h1>A helpful vue3 + element-plus pdf viewer example.</h1>
+  <strong>replica el-image's preview</strong>
 </div>
 
 ## How to use
+- install vue-pdf-embed
+  ```bash
+  #npm install
+  npm install vue-pdf-embed
+
+  # or yarn install
+  yarn add vue-pdf-embed
+  ```
 - add PdfViewer.vue to your components
 - copy the following code to your list page(most likely, you need make a simple adjustment before it work in your project)
 ```bash
